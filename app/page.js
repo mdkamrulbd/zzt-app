@@ -13,7 +13,6 @@ export const metadata = {
     canonical: "https://www.zzt.com.bd/",
     languages: {
       en: "https://www.zzt.com.bd/",
-      bn: "https://www.zzt.com.bd/bn/",
       "x-default": "https://www.zzt.com.bd/"
     }
   },
@@ -96,7 +95,7 @@ const organizationSchema = {
     telephone: "+8801716777787",
     contactType: "customer service",
     email: "info@zzt.com.bd",
-    availableLanguage: ["English", "Bengali"]
+    availableLanguage: ["English"]
   },
   areaServed: {
     "@type": "Country",
@@ -514,11 +513,6 @@ const homeHtml = `
         <li><a href="#contact" data-i18n="nav_contact">Contact</a></li>
       </ul>
     </nav>
-    <button id="lang-toggle" class="lang-toggle" aria-label="Toggle language">
-      <span class="toggle-label left">BN</span>
-      <span class="toggle-separator">|</span>
-      <span class="toggle-label right">EN</span>
-    </button>
   </div>
 </header>
 <main>

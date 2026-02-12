@@ -276,11 +276,6 @@ const contactFormHtml = `
         <li><a href="/contact-form" data-i18n="nav_contact">Contact</a></li>
       </ul>
     </nav>
-    <button id="lang-toggle" class="lang-toggle" aria-label="Toggle language">
-      <span class="toggle-label left">BN</span>
-      <span class="toggle-separator">|</span>
-      <span class="toggle-label right">EN</span>
-    </button>
   </div>
 </header>
 <main class="contact-form-page">
