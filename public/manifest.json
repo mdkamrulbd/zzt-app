@@ -1,0 +1,22 @@
+{
+  "name": "Zam Zam Trading - Government Contracting & Supply",
+  "short_name": "ZZT",
+  "description": "Bangladesh's trusted government contractor specializing in finishing thread supply, construction materials, and feed mill raw materials. 15+ years experience, nationwide delivery.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c1117",
+  "theme_color": "#1ea672",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "scope": "/",
+  "categories": ["business", "supply", "contractor", "logistics"],
+  "keywords": ["government contracting", "public procurement", "e-GP", "tender support", "finishing thread", "construction materials", "stone and sand supply", "feed mill raw materials", "bulk supply", "Bangladesh supplier"],
+  "icons": [
+    {
+      "src": "images/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

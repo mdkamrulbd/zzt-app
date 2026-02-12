@@ -1,0 +1,24 @@
+# Security Contact Information
+# For reporting security vulnerabilities
+
+Contact: mailto:security@zzt.com.bd
+Contact: tel:+8801716777787
+
+# Preferred languages for security reports
+Preferred-Languages: en, bn
+
+# Canonical URL for this file
+Canonical: https://www.zzt.com.bd/.well-known/security.txt
+
+# Organization information
+Organization: Zam Zam Trading
+Address: House#11, Road#24, Sector#10, Uttara, Dhaka, Bangladesh
+
+# Policy URL
+Policy: https://www.zzt.com.bd/security-policy
+
+# Acknowledgments page
+Acknowledgments: https://www.zzt.com.bd/security-acknowledgments
+
+# Expiry date (1 year from creation)
+Expires: 2026-08-29T23:59:59.000Z

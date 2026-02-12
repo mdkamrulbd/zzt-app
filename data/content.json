@@ -1,0 +1,577 @@
+{
+  "homeSection": {
+    "title": "Zam Zam Trading – Trusted Partner in Government Contracting & Supply",
+    "description": "We specialize in finishing thread supply, stone & sand for construction, and raw material supply for feed mills across Bangladesh, delivering dependable service with transparent documentation.",
+    "primaryCtaLabel": "Contact Us Today",
+    "primaryCtaLink": "/contact-form",
+    "secondaryCtaLabel": "Explore Services",
+    "secondaryCtaLink": "#services",
+    "badges": [
+      "Since 2018",
+      "Nationwide Delivery",
+      "Government Tender Ready",
+      "Quality-Assured Supply"
+    ]
+  },
+  "slides": [
+    {
+      "title": "Finishing Thread Supply",
+      "description": "Consistent, quality-assured threads for garments production nationwide.",
+      "image": "/images/home/home_1.jpg",
+      "alt": "Finishing thread supply for garments manufacturing"
+    },
+    {
+      "title": "Stone & Sand Supply",
+      "description": "Trusted construction aggregates delivered to project sites across Bangladesh.",
+      "image": "/images/home/home_2.jpg",
+      "alt": "High-quality stone and sand for construction projects"
+    },
+    {
+      "title": "Government Contracting",
+      "description": "End-to-end tender participation and project fulfillment services.",
+      "image": "/images/home/home_3.jpg",
+      "alt": "Government contracting and tender services"
+    },
+    {
+      "title": "Feed Mill Raw Materials",
+      "description": "Reliable sourcing of quality materials to power feed production.",
+      "image": "/images/home/home_4.jpg",
+      "alt": "Raw materials supply for feed mill operations"
+    },
+    {
+      "title": "Nationwide Logistics",
+      "description": "On-time delivery backed by strong logistics network.",
+      "image": "/images/home/home_5.jpg",
+      "alt": "Nationwide logistics and delivery services"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Government Infrastructure",
+      "description": "Large-scale infrastructure development projects",
+      "image": "/images/projects/home_1.jpg",
+      "alt": "Government Contract Project"
+    },
+    {
+      "title": "Building Construction",
+      "description": "Commercial and residential construction projects",
+      "image": "/images/projects/home_2.jpg",
+      "alt": "Construction Project"
+    },
+    {
+      "title": "Road Development",
+      "description": "Highway and road construction initiatives",
+      "image": "/images/projects/home_3.jpg",
+      "alt": "Road Construction"
+    },
+    {
+      "title": "Bridge Construction",
+      "description": "Major bridge and overpass construction",
+      "image": "/images/projects/home_4.jpg",
+      "alt": "Bridge Project"
+    },
+    {
+      "title": "Public Works",
+      "description": "Community development and public facilities",
+      "image": "/images/projects/home_5.jpg",
+      "alt": "Public Works"
+    },
+    {
+      "title": "Urban Planning",
+      "description": "City planning and urban development projects",
+      "image": "/images/projects/home_6.jpg",
+      "alt": "Urban Development"
+    },
+    {
+      "title": "Infrastructure Development",
+      "description": "Major infrastructure and development initiatives",
+      "image": "/images/projects/home_1.jpg",
+      "alt": "Infrastructure Development"
+    },
+    {
+      "title": "Housing Projects",
+      "description": "Residential and community housing developments",
+      "image": "/images/projects/home_2.jpg",
+      "alt": "Housing Projects"
+    },
+    {
+      "title": "Transport Infrastructure",
+      "description": "Roads, bridges and transport system development",
+      "image": "/images/projects/home_3.jpg",
+      "alt": "Transport Infrastructure"
+    },
+    {
+      "title": "Water Management",
+      "description": "Water supply and drainage system projects",
+      "image": "/images/projects/home_4.jpg",
+      "alt": "Water Management"
+    },
+    {
+      "title": "Educational Infrastructure",
+      "description": "Schools and educational facility development",
+      "image": "/images/projects/home_5.jpg",
+      "alt": "Educational Infrastructure"
+    },
+    {
+      "title": "Healthcare Facilities",
+      "description": "Hospital and medical center construction",
+      "image": "/images/projects/home_6.jpg",
+      "alt": "Healthcare Facilities"
+    }
+  ],
+  "products": [
+    {
+      "title": "Finishing Thread",
+      "description": "High-quality threads for garment manufacturing",
+      "image": "/images/products/home_1.jpg",
+      "alt": "Finishing Thread"
+    },
+    {
+      "title": "Construction Stone",
+      "description": "Premium quality stone for construction projects",
+      "image": "/images/products/home_2.jpg",
+      "alt": "Construction Stone"
+    },
+    {
+      "title": "Sand Supply",
+      "description": "Fine and coarse sand for construction needs",
+      "image": "/images/products/home_3.jpg",
+      "alt": "Sand Supply"
+    },
+    {
+      "title": "Feed Mill Raw Materials",
+      "description": "Quality ingredients for animal feed production",
+      "image": "/images/products/home_4.jpg",
+      "alt": "Feed Mill Materials"
+    },
+    {
+      "title": "Textile Materials",
+      "description": "Various textile supplies and accessories",
+      "image": "/images/products/home_5.jpg",
+      "alt": "Textile Materials"
+    },
+    {
+      "title": "Industrial Supplies",
+      "description": "Industrial equipment and materials",
+      "image": "/images/products/home_6.jpg",
+      "alt": "Industrial Supplies"
+    },
+    {
+      "title": "Quality Control Materials",
+      "description": "Testing and quality assurance materials",
+      "image": "/images/products/home_1.jpg",
+      "alt": "Quality Control Materials"
+    },
+    {
+      "title": "Construction Aggregates",
+      "description": "High-grade stone and sand for construction",
+      "image": "/images/products/home_2.jpg",
+      "alt": "Construction Aggregates"
+    },
+    {
+      "title": "Specialty Materials",
+      "description": "Specialized materials for specific applications",
+      "image": "/images/products/home_3.jpg",
+      "alt": "Specialty Materials"
+    },
+    {
+      "title": "Agricultural Supplies",
+      "description": "Farm equipment and agricultural materials",
+      "image": "/images/products/home_4.jpg",
+      "alt": "Agricultural Supplies"
+    },
+    {
+      "title": "Manufacturing Tools",
+      "description": "Tools and equipment for manufacturing",
+      "image": "/images/products/home_5.jpg",
+      "alt": "Manufacturing Tools"
+    },
+    {
+      "title": "Safety Equipment",
+      "description": "Safety gear and protective equipment",
+      "image": "/images/products/home_6.jpg",
+      "alt": "Safety Equipment"
+    }
+  ],
+  "clients": [
+    {
+      "image": "/images/clients/zzt_bwdb1.png",
+      "alt": "Client logo 1"
+    },
+    {
+      "image": "/images/clients/zzt_hed2.png",
+      "alt": "Client logo 2"
+    },
+    {
+      "image": "/images/clients/zzt_pwd3.png",
+      "alt": "Client logo 3"
+    },
+    {
+      "image": "/images/clients/zzt_lged4.png",
+      "alt": "Client logo 4"
+    },
+    {
+      "image": "/images/clients/zzt_rhd5.png",
+      "alt": "Client logo 5"
+    },
+    {
+      "image": "/images/clients/zzt_abc.png",
+      "alt": "Client logo 6"
+    },
+    {
+      "image": "/images/clients/zzt_aftab.png",
+      "alt": "Client logo 7"
+    },
+    {
+      "image": "/images/clients/zzt_apfeed.png",
+      "alt": "Client logo 8"
+    },
+    {
+      "image": "/images/clients/zzt_cp.png",
+      "alt": "Client logo 9"
+    },
+    {
+      "image": "/images/clients/zzt_labibgroup.png",
+      "alt": "Client logo 10"
+    },
+    {
+      "image": "/images/clients/zzt_newhope.png",
+      "alt": "Client logo 11"
+    },
+    {
+      "image": "/images/clients/zzt_nourish.png",
+      "alt": "Client logo 12"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Government Contracts",
+      "value": 50,
+      "icon": "fas fa-handshake",
+      "suffix": ""
+    },
+    {
+      "label": "Tons Delivered",
+      "value": 7500,
+      "icon": "fas fa-truck",
+      "suffix": ""
+    },
+    {
+      "label": "Happy Clients",
+      "value": 18,
+      "icon": "fas fa-users",
+      "suffix": ""
+    },
+    {
+      "label": "Years Experience",
+      "value": 8,
+      "icon": "fas fa-calendar-alt",
+      "suffix": ""
+    },
+    {
+      "label": "District Coverage",
+      "value": 64,
+      "icon": "fas fa-map-marked-alt",
+      "suffix": "+"
+    },
+    {
+      "label": "On-Time Delivery Rate",
+      "value": 98,
+      "icon": "fas fa-stopwatch",
+      "suffix": "%"
+    }
+  ],
+  "about": [
+    {
+      "title": "About Zam Zam Trading",
+      "description": "Zam Zam Trading is a trusted supplier and government contractor in Bangladesh with over 15 years of experience. We supply finishing thread for garments, stone and sand for construction, and raw materials for feed mills. With extensive industry experience and a reliable nationwide network, we ensure on-time delivery and consistent quality for all our clients."
+    },
+    {
+      "title": "Procurement Support",
+      "description": "Our teams support tender documentation, procurement planning, supplier coordination, and last-mile logistics, helping organizations meet project timelines and compliance requirements with confidence."
+    },
+    {
+      "title": "Quality-assured sourcing",
+      "description": "Quality-assured sourcing from certified suppliers"
+    },
+    {
+      "title": "Nationwide logistics",
+      "description": "Nationwide logistics support across Bangladesh"
+    },
+    {
+      "title": "Trusted by clients",
+      "description": "Trusted by 500+ public and private sector clients"
+    },
+    {
+      "title": "Contracting experience",
+      "description": "15+ years of government contracting experience"
+    },
+    {
+      "title": "Tender support",
+      "description": "Dedicated procurement and tender support"
+    },
+    {
+      "title": "Transparent reporting",
+      "description": "Transparent documentation and reporting"
+    },
+    {
+      "title": "Mission",
+      "description": "Deliver dependable supply solutions with integrity, speed, and complete documentation for every contract."
+    },
+    {
+      "title": "Capability",
+      "description": "Multi-category sourcing for garments, construction, and feed mills, supported by structured vendor partnerships."
+    },
+    {
+      "title": "Commitment",
+      "description": "Consistent quality, on-time delivery, and proactive communication across every project and client."
+    }
+  ],
+  "partnerChoice": [
+    {
+      "title": "End-to-End Government Contracting Support",
+      "description": "From tender document preparation to final delivery and billing, we manage the full lifecycle of government supply contracts with clear communication and documented processes."
+    },
+    {
+      "title": "Specialized Supply Expertise",
+      "description": "Deep operational understanding of finishing thread, construction aggregates, and feed mill raw materials helps us recommend the right specification for each project requirement."
+    },
+    {
+      "title": "Compliance & Quality Assurance",
+      "description": "Materials are sourced from vetted partners, aligned with government standards, and supported with test reports and delivery documentation where required."
+    },
+    {
+      "title": "Reliable Nationwide Logistics",
+      "description": "Coordinated transport and on-site delivery across Bangladesh ensure that projects receive materials on time, reducing downtime and cost overruns."
+    }
+  ],
+  "services": [
+    {
+      "title": "Government Contracting",
+      "description": "End-to-end tender participation, procurement, and fulfillment for government projects across Bangladesh.\n• Pre-qualification and tender documentation\n• Schedule-based supply planning\n• Compliance-ready delivery records"
+    },
+    {
+      "title": "Garments Finishing Thread Supply",
+      "description": "Reliable supply of finishing threads tailored to diverse garments manufacturing needs nationwide.\n• Color, strength, and finish matching\n• Bulk supply with batch consistency\n• Factory-ready delivery schedules"
+    },
+    {
+      "title": "Stone & Sand Supply",
+      "description": "High-quality aggregates sourced and delivered for construction projects of any scale across Bangladesh.\n• Grading and size specification support\n• Site-to-site logistics coordination\n• Volume-based pricing options"
+    },
+    {
+      "title": "Feed Mill Raw Materials Supply",
+      "description": "Consistent sourcing of grains and additives ensuring optimal feed production for agricultural industry.\n• Reliable raw material sourcing\n• Quality checks on intake\n• Seasonal supply continuity"
+    }
+  ],
+  "industries": [
+    {
+      "title": "Government & Public Sector",
+      "description": "Registered supplier for central and local government projects, working within e-GP and public procurement guidelines."
+    },
+    {
+      "title": "Construction & Infrastructure",
+      "description": "Stone, sand, and related construction materials supplied to roads, bridges, buildings, and infrastructure projects."
+    },
+    {
+      "title": "Garments & Textiles",
+      "description": "Finishing threads and related supplies for export-oriented garments and textile manufacturing units."
+    },
+    {
+      "title": "Feed Mills & Agriculture",
+      "description": "Raw materials and additives for poultry, fish, and cattle feed producers across the country."
+    },
+    {
+      "title": "Public Development Projects",
+      "description": "Support for development-focused initiatives, including education, healthcare, and community infrastructure."
+    },
+    {
+      "title": "Private Sector Clients",
+      "description": "Long-term relationships with private developers, industrial units, and trading partners."
+    }
+  ],
+  "faq": [
+    {
+      "title": "What types of government contracts do you handle?",
+      "description": "We handle various government contracts including construction material supply, finishing thread supply for garments, and raw materials for feed mills. Our experience spans over 15 years in government procurement."
+    },
+    {
+      "title": "Do you provide nationwide delivery?",
+      "description": "Yes, we provide nationwide delivery across Bangladesh. Our logistics network ensures timely delivery to all major cities and remote areas throughout the country."
+    },
+    {
+      "title": "What quality assurance measures do you follow?",
+      "description": "We follow strict quality control measures including pre-delivery inspections, certified sourcing from approved suppliers, and compliance with government quality standards."
+    },
+    {
+      "title": "How can I request a quote for bulk orders?",
+      "description": "You can request a quote by contacting us directly through phone or email. Please provide details about the materials needed, quantity, and delivery location for an accurate quote."
+    },
+    {
+      "title": "What are your payment terms?",
+      "description": "We offer flexible payment terms depending on the contract size and client relationship. Standard terms include advance payment, delivery-based payments, and credit facilities for established clients."
+    },
+    {
+      "title": "Can you support urgent or phased deliveries?",
+      "description": "Yes. We plan phased deliveries based on project schedules, with priority logistics support for urgent requirements and critical project milestones."
+    },
+    {
+      "title": "Do you provide documentation for compliance and audits?",
+      "description": "We provide delivery notes, material specifications, and supporting documents required for internal reviews and procurement audits."
+    }
+  ],
+  "contactReach": [
+    {
+      "title": "Contact",
+      "description": "Share your requirements for quote, tender support, or delivery planning."
+    },
+    {
+      "title": "Mobile",
+      "description": "+8801716777787"
+    },
+    {
+      "title": "Email",
+      "description": "info@zzt.com.bd"
+    },
+    {
+      "title": "Address",
+      "description": "House#11, Road#24, Sector#10, Uttara, Dhaka, Bangladesh."
+    },
+    {
+      "title": "Hours",
+      "description": "Sat–Thu, 9:00 AM – 6:00 PM"
+    },
+    {
+      "title": "Services",
+      "description": "Government contracting, finishing thread, stone & sand, feed mill raw materials"
+    },
+    {
+      "title": "Primary CTA",
+      "description": "Request a Quote (/contact-form)"
+    },
+    {
+      "title": "Secondary CTA",
+      "description": "Schedule a Call (tel:+8801716777787)"
+    },
+    {
+      "title": "Map",
+      "description": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.8550452590453!2d90.38196217479636!3d23.89475828322006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c53a337590e3%3A0xb3313243220486ee!2sZam%20Zam%20Trading!5e0!3m2!1sen!2sbd!4v1755855816292!5m2!1sen!2sbd"
+    }
+  ],
+  "footer": {
+    "companyName": "Zam Zam Trading",
+    "companyDesc": "Trusted Partner in Government Contracting & Supply in Bangladesh. Quality assured sourcing and nationwide delivery since 2009.",
+    "meta": [
+      "Procurement Support",
+      "Bulk Supply Planning",
+      "Nationwide Logistics"
+    ],
+    "quickLinks": [
+      {
+        "label": "Home",
+        "url": "#home",
+        "icon": "fas fa-home"
+      },
+      {
+        "label": "About Us",
+        "url": "#about",
+        "icon": "fas fa-info-circle"
+      },
+      {
+        "label": "Highlights",
+        "url": "#highlights",
+        "icon": "fas fa-star"
+      },
+      {
+        "label": "Our Services",
+        "url": "#services",
+        "icon": "fas fa-cogs"
+      },
+      {
+        "label": "Statistics",
+        "url": "#statistics",
+        "icon": "fas fa-chart-bar"
+      },
+      {
+        "label": "Trusted Partners",
+        "url": "#clients",
+        "icon": "fas fa-users"
+      },
+      {
+        "label": "Projects",
+        "url": "#projects",
+        "icon": "fas fa-project-diagram"
+      },
+      {
+        "label": "Industries",
+        "url": "#industries",
+        "icon": "fas fa-industry"
+      },
+      {
+        "label": "FAQ",
+        "url": "#faq",
+        "icon": "fas fa-question-circle"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact-form",
+        "icon": "fas fa-envelope"
+      }
+    ],
+    "servicesLinks": [
+      {
+        "label": "Government Contracting",
+        "url": "#services",
+        "icon": "fas fa-handshake"
+      },
+      {
+        "label": "Finishing Thread Supply",
+        "url": "#services",
+        "icon": "fas fa-cut"
+      },
+      {
+        "label": "Construction Materials",
+        "url": "#services",
+        "icon": "fas fa-building"
+      },
+      {
+        "label": "Feed Mill Raw Materials",
+        "url": "#services",
+        "icon": "fas fa-seedling"
+      },
+      {
+        "label": "Logistics & Delivery",
+        "url": "#services",
+        "icon": "fas fa-truck"
+      }
+    ],
+    "socialLinks": [
+      {
+        "label": "Facebook",
+        "url": "#",
+        "icon": "fab fa-facebook-f"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "#",
+        "icon": "fab fa-linkedin-in"
+      },
+      {
+        "label": "YouTube",
+        "url": "#",
+        "icon": "fab fa-youtube"
+      },
+      {
+        "label": "Twitter",
+        "url": "#",
+        "icon": "fab fa-twitter"
+      }
+    ]
+  },
+  "adminProfile": {
+    "userId": "admin",
+    "displayName": "MD Kamrul Islam",
+    "email": "mkaqaid@gmail.com",
+    "passwordHash": "97235c8dd397af95280c903244d6616c122ada1bf0d31578c230fd46001a116820395945c42f6f2ba409469afdfc56143edf57a82b46e23090ee851f5e4a824d",
+    "passwordSalt": "91b083880689bef2ee8da6a582d6724a"
+  }
+}

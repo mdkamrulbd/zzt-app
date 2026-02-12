@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Disallow: /.well-known/
+
+# Allow specific search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://www.zzt.com.bd/sitemap.xml
+
+# Host preference
+Host: www.zzt.com.bd
