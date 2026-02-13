@@ -496,22 +496,11 @@ faqItems.forEach(item => {
 
 // Scroll animations function
 function initScrollAnimations() {
-  const observeAnimations = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        entry.target.style.opacity = '1';
-        entry.target.style.transform = 'translateY(0)';
-      }
-    });
-  }, { threshold: 0.1 });
-
   const animatedElements = document.querySelectorAll('.service-card, .stat-card, .faq-item, .info-card, .industry-card, .about-card');
-  animatedElements.forEach((el, index) => {
-    el.style.opacity = '0';
-    el.style.transform = 'translateY(30px)';
-    el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
-    el.style.transitionDelay = `${index * 0.1}s`;
-    observeAnimations.observe(el);
+  animatedElements.forEach((el) => {
+    el.style.opacity = '1';
+    el.style.transform = 'none';
+    el.style.transition = 'none';
   });
 }
 
