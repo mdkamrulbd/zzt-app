@@ -490,6 +490,36 @@ const contactFormScript = `
       const lang = localStorage.getItem('language') || 'en';
       return (translations[lang] && translations[lang][key]) || fallback;
     };
+    const createMailtoUrl = (params) => {
+      const subject = params.subject || 'Contact request';
+      const bodyLines = [
+        'First Name: ' + (params.firstName || ''),
+        'Last Name: ' + (params.lastName || ''),
+        'Email: ' + (params.email || ''),
+        'Phone: ' + (params.phone || ''),
+        'Company: ' + (params.company || ''),
+        'Service: ' + (params.service || ''),
+        'Message:',
+        params.message || ''
+      ];
+      const body = bodyLines.join('\n');
+      return 'mailto:info@zzt.com.bd?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+    };
+    const showErrorMessage = (fallbackUrl) => {
+      if (!errorMessage) return;
+      const span = errorMessage.querySelector('span');
+      if (span) {
+        span.textContent = getMessage('contact_error', 'There was an error sending your message. Please try again or contact us directly.');
+        if (fallbackUrl) {
+          const link = document.createElement('a');
+          link.href = fallbackUrl;
+          link.textContent = 'Email us';
+          link.style.marginLeft = '6px';
+          span.appendChild(link);
+        }
+      }
+      errorMessage.classList.add('show');
+    };
 
     if (form) {
       form.addEventListener('submit', (event) => {
@@ -514,7 +544,7 @@ const contactFormScript = `
           to_name: 'Zam Zam Trading'
         };
 
-        emailClient.send('service_qf4nwrk', 'template_2fke75n', templateParams)
+        emailClient.send('service_mkaqaid', 'template_w8n2ocs', templateParams)
           .then(() => {
             if (successMessage) {
               successMessage.classList.add('show');
@@ -528,10 +558,9 @@ const contactFormScript = `
             }, 5000);
           })
           .catch(() => {
-            if (errorMessage) {
-              errorMessage.classList.add('show');
-              successMessage && successMessage.classList.remove('show');
-            }
+            const fallbackUrl = createMailtoUrl(templateParams);
+            showErrorMessage(fallbackUrl);
+            successMessage && successMessage.classList.remove('show');
             setTimeout(() => {
               if (errorMessage) {
                 errorMessage.classList.remove('show');
